@@ -10,6 +10,7 @@ This is a demo application built using 'Hilt' a new dependency injection framewo
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
   - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Generates a binding class for each XML layout file present in that module and allows you to more easily write code that interacts with views.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
+
 **Contributed By:** [Rajkumar Rajan](https://github.com/RajKumar23)
 
 ## Project structure
