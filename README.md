@@ -15,13 +15,15 @@ This is a demo application built using 'Hilt' a new dependency injection framewo
 ## Project structure
 This is the project structure using [***HILT (Dependency injection)***](https://developer.android.com/training/dependency-injection/hilt-jetpack) library.
 
+![](https://github.com/RajKumar23/MVVM-Coroutines-Retrofit-Hilt/blob/master/app/Project%20structure.PNG)
+
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 
 ![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 ## Contact
-Wishing to establish the connection with me?
+Wishing to establish the connection with me?. Yes, I'm open for it. 
 
 Visit:- [Rajkumar Rajan](https://www.linkedin.com/in/rajkumar-rajan-94463a85/)
 
