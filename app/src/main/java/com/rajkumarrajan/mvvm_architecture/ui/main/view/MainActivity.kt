@@ -68,8 +68,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun renderList(users: List<User>) {
         adapter.apply {
-            adapter.addData(users)
-            adapter.notifyDataSetChanged()
+            addData(users)
+            notifyDataSetChanged()
         }
     }
 }
